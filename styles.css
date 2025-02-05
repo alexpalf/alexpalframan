@@ -24,7 +24,7 @@ nav {
 .logo {
     font-size: 24px;
     font-weight: bold;
-    color: #ffcc00;
+    color: #00c3ff;
 }
 
 .nav-links {
@@ -45,7 +45,7 @@ nav {
 }
 
 .nav-links a:hover {
-    color: #ffcc00;
+    color: #00c3ff;
 }
 
 /* Hero Section */
@@ -64,7 +64,7 @@ nav {
 }
 
 .hero-content span {
-    color: #ffcc00;
+    color: #00c3ff;
 }
 
 .hero-content p {
@@ -76,7 +76,7 @@ nav {
     display: inline-block;
     margin-top: 20px;
     padding: 12px 25px;
-    background-color: #ffcc00;
+    background-color: #00c3ff;
     color: #121212;
     font-weight: bold;
     text-decoration: none;
@@ -85,7 +85,7 @@ nav {
 }
 
 .btn:hover {
-    background-color: #e6b800;
+    background-color: #00c3ff;
 }
 
 /* Sections */
@@ -96,7 +96,7 @@ section {
 h2 {
     font-size: 36px;
     margin-bottom: 20px;
-    color: #ffcc00;
+    color: #00c3ff;
 }
 
 /* Projects */
